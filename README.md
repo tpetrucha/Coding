@@ -1,2 +1,2 @@
 # Coding
-Repository to learn and test JavaScript or ohter condings
+Repository to learn and test JavaScript or other codings
